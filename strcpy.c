@@ -1,5 +1,4 @@
-#include <stdio.h>
- char *ft_strcpy(char *dest, char *src){
+char *ft_strcpy(char *dest, char *src){
     int i = 0;
     while(src[i] != '\0'){
         dest[i] = src[i];
