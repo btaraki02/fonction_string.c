@@ -13,8 +13,9 @@ while(*src != '\0'){
 return dest;
 
  }
-
- /*int main(){
+ /*
+----------------------------->
+ int main(){
 char momo[101];
 printf("enter your text:a ");
 gets(momo);
@@ -26,4 +27,6 @@ char *dest = lolo;
 ft_strcat(dest,src);
 printf("%s",lolo);
 return 0;
- }
+ } 
+ ---------------------------->
+ */
